@@ -1,0 +1,104 @@
+id: 9bd86d55ef6e4cc0818222f475c93cb4
+annotation_type: Language
+revision: '00001'
+annotations:
+  090f914a4cb746aab89a2f7caa5cd2eb:
+    span:
+      start: 39
+      end: 177
+    language: en
+  dcc1ffd01fd3458795bd6f1d045e2f02:
+    span:
+      start: 352
+      end: 422
+    language: en
+  72a4cdb385b74bfba0236caa518af366:
+    span:
+      start: 485
+      end: 996
+    language: en
+  8852dadfd0ea4f9f8879d0ba52a41130:
+    span:
+      start: 2420
+      end: 2562
+    language: en
+  75be88ae263f4feb9ea0748295bfaab8:
+    span:
+      start: 19919
+      end: 20107
+    language: en
+  4194426d79ba4dd9abfe667e0685a1b6:
+    span:
+      start: 37841
+      end: 37862
+    language: en
+  8f3f5645962640fc8dd7b43377c0036a:
+    span:
+      start: 50517
+      end: 50698
+    language: en
+  30ddd0b31d1d4b6b81e2f71795bd1998:
+    span:
+      start: 62447
+      end: 62636
+    language: en
+  5d90113b528d4118bf9b49cfb0c10313:
+    span:
+      start: 82788
+      end: 82958
+    language: en
+  7aed340b56014c65b346e95411a150ed:
+    span:
+      start: 83314
+      end: 83387
+    language: en
+  63c41c2033c54feabbe78be1b9e21d34:
+    span:
+      start: 84662
+      end: 84841
+    language: en
+  607b404681ce47c49be518bc487f30c7:
+    span:
+      start: 95788
+      end: 95957
+    language: en
+  ec41bef4e2da421b8baf10da040cf2e7:
+    span:
+      start: 100357
+      end: 100387
+    language: en
+  15a3b0e791634805af961b21c9021045:
+    span:
+      start: 102043
+      end: 102195
+    language: en
+  f260cca5dd8a497bb1b0dd2ef97beff5:
+    span:
+      start: 148094
+      end: 148277
+    language: en
+  f048365933c14c588379fc1c49feb974:
+    span:
+      start: 163104
+      end: 163273
+    language: en
+  23825370617d4b45a86a5fb8b86920a1:
+    span:
+      start: 182085
+      end: 182268
+    language: en
+  86c62d15eb904e5a8d3627b7b99a53a9:
+    span:
+      start: 185823
+      end: 186012
+    language: en
+  254c48df22254a9891e31e77acc1740d:
+    span:
+      start: 207111
+      end: 207289
+    language: en
+  4d1131ed2d49488685204891db473135:
+    span:
+      start: 238215
+      end: 238333
+    language: en
